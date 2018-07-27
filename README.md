@@ -11,4 +11,5 @@ In this part, You can see all of your albums with covers and details.
 ## *** LIST OF SONG FOR EACH ALBUM ***
 With a click on each album, you can see all of the details about that album and list of songs too.
 
+<img width="1440" alt="screen shot 2018-07-27 at 5 30 25 pm" src="https://user-images.githubusercontent.com/41792322/43326962-cc8359ea-91c2-11e8-93c3-5cb6170c8e99.png">
 
