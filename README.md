@@ -31,6 +31,10 @@ with FSMUSIC admin pannel you have an ability to manage your Artists,Tracks,Albu
 
 <img width="1440" alt="screen shot 2018-07-27 at 6 08 49 pm" src="https://user-images.githubusercontent.com/41792322/43329065-271c3368-91c8-11e8-8c96-690d2a431f1c.png">
 <img width="1440" alt="screen shot 2018-07-27 at 6 04 00 pm" src="https://user-images.githubusercontent.com/41792322/43329197-62966b5c-91c8-11e8-9fa5-4f5deed063da.png">
+<img width="1440" alt="screen shot 2018-07-27 at 6 07 09 pm" src="https://user-images.githubusercontent.com/41792322/43329451-116f7e2a-91c9-11e8-9a58-9f5aadc800ec.png">
+<img width="1440" alt="screen shot 2018-07-27 at 6 07 43 pm" src="https://user-images.githubusercontent.com/41792322/43329452-118c991a-91c9-11e8-9201-f0b26d851d4e.png">
+<img width="1440" alt="screen shot 2018-07-27 at 6 07 58 pm" src="https://user-images.githubusercontent.com/41792322/43329459-14925ab4-91c9-11e8-87b8-c79ed6ab07bf.png">
+
 
 
 
