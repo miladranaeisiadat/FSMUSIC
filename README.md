@@ -5,4 +5,5 @@ FSMusic is a powerful and flexible web application that has a ability to synchro
 
 ### *** ALBUMS PAGE ***
 In this part, You can see all of your albums with covers and details.
+
 <img width="1437" alt="screen shot 2018-07-27 at 4 58 51 pm" src="https://user-images.githubusercontent.com/41792322/43326259-0d418d50-91c1-11e8-990b-56c91049ec83.png">
