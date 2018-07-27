@@ -1,5 +1,5 @@
 # FSMUSIC USER INTERFACE
-FSMusic is a powerful and flexible web application that has a ability to synchronize lyrics with music player, Create Playlist, Add music to your playlist, Add music to your Favorite and FSMusic allows you to create your own music streaming website and manage your website, music and lyrics with a admin panel.
+FSMUSIC is a powerful and flexible web application that has an ability to synchronize lyrics with a music player, Create Playlist, Add music to your playlist, Add music to your Favorite and FSMusic allows you to create your own music streaming website and manage your website, music, and lyrics with an admin panel.
 
 ### TECHNOLOGIES 
 ![technology](https://user-images.githubusercontent.com/41792322/43330601-55fd704e-91cc-11e8-9518-044ccf141dd0.png)
