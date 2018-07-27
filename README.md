@@ -13,3 +13,7 @@ With a click on each album, you can see all of the details about that album and 
 
 <img width="1440" alt="screen shot 2018-07-27 at 5 28 23 pm" src="https://user-images.githubusercontent.com/41792322/43327144-49f548d4-91c3-11e8-854c-eab62cccca8b.png">
 
+## *** SUBTITLE PART ***
+With a click on the subtitles button, you can see the subtitle and have the ability to show and hide the subtitle.
+
+<img width="1440" alt="screen shot 2018-07-27 at 4 59 59 pm" src="https://user-images.githubusercontent.com/41792322/43327524-585a6eda-91c4-11e8-9e4b-623c96424664.png">
