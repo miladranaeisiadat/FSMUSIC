@@ -17,3 +17,8 @@ With a click on each album, you can see all of the details about that album and 
 With a click on the subtitles button, you can see the subtitle and have the ability to show and hide the subtitle.
 
 <img width="1440" alt="screen shot 2018-07-27 at 4 59 59 pm" src="https://user-images.githubusercontent.com/41792322/43327524-585a6eda-91c4-11e8-9e4b-623c96424664.png">
+
+## *** PLAYLIST ***
+In this part, you can create your own playlist and add your song to your playlist.
+
+<img width="1440" alt="screen shot 2018-07-27 at 5 04 26 pm" src="https://user-images.githubusercontent.com/41792322/43327863-3c423d3a-91c5-11e8-8e18-5499c3b9a07f.png">
