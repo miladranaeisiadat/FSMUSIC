@@ -23,4 +23,4 @@ In this part, you can create your own playlist,edite and remove your playlist an
 
 <img width="1440" alt="screen shot 2018-07-27 at 5 04 26 pm" src="https://user-images.githubusercontent.com/41792322/43327863-3c423d3a-91c5-11e8-8e18-5499c3b9a07f.png">
 <img width="1440" alt="screen shot 2018-07-27 at 5 04 17 pm" src="https://user-images.githubusercontent.com/41792322/43327985-93080500-91c5-11e8-928e-2f51fdfb3972.png">
-<img width="1440" alt="screen shot 2018-07-27 at 5 04 38 pm" src="https://user-images.githubusercontent.com/41792322/43327984-92ea92cc-91c5-11e8-8686-a97d7570ca09.png">
+<img width="1439" alt="screen shot 2018-07-27 at 5 53 51 pm" src="https://user-images.githubusercontent.com/41792322/43328232-2420e048-91c6-11e8-96fd-33ebe29dd6fc.png">
