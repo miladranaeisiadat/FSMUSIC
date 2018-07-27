@@ -1,4 +1,4 @@
-# FSMUSIC
+# FSMUSIC USER PANNEL
 FSMusic is a powerful and flexible web application that has a ability to synchronize lyrics with music player, Create Playlist, Add music to your playlist, Add music to your Favorite and FSMusic allows you to create your own music streaming website and manage your website, music and lyrics with a admin panel.
 ## *** LOGIN PAGE ***
 <img width="1440" alt="screen shot 2018-07-27 at 4 57 59 pm" src="https://user-images.githubusercontent.com/41792322/43325657-f28f69ce-91bf-11e8-9b19-f43674ea3029.png">
@@ -25,5 +25,13 @@ In this part, you can create your own playlist,edite and remove your playlist an
 <img width="1440" alt="screen shot 2018-07-27 at 5 04 17 pm" src="https://user-images.githubusercontent.com/41792322/43327985-93080500-91c5-11e8-928e-2f51fdfb3972.png">
 <img width="1440" alt="screen shot 2018-07-27 at 5 58 41 pm" src="https://user-images.githubusercontent.com/41792322/43328466-bcc25f2a-91c6-11e8-83c2-4f5b4ef88b10.png">
 <img width="1440" alt="screen shot 2018-07-27 at 5 06 45 pm" src="https://user-images.githubusercontent.com/41792322/43328541-f2b2a086-91c6-11e8-8cfc-7a501fe2ff7c.png">
+
+# FSMUSIC ADMIN PANNEL
+with FSMUSIC admin pannel you have an ability to manage your Artists,Tracks,Albums,Users and Subtitle and manage your website.
+
+<img width="1440" alt="screen shot 2018-07-27 at 6 08 49 pm" src="https://user-images.githubusercontent.com/41792322/43329065-271c3368-91c8-11e8-8c96-690d2a431f1c.png">
+<img width="1440" alt="screen shot 2018-07-27 at 6 04 00 pm" src="https://user-images.githubusercontent.com/41792322/43329197-62966b5c-91c8-11e8-9fa5-4f5deed063da.png">
+
+
 
 
